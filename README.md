@@ -1,33 +1,48 @@
-<h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">🚀 Passionate Programmer | 💻 C & Python Enthusiast | 🎯 Lifelong Learner</h3>
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Parth Kukadiya</h1>
+<h3 align="center">🚀 Passionate Programmer | 💻 C & Python Developer | 🎯 Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Code.+Debug.+Learn.+Repeat.💡;Passionate+about+Programming!;C+%7C+Python+%7C+GitHub+Explorer!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **Python** and **C language**
-- 💡 I love solving coding problems and exploring new technologies  
-- 💬 Ask me about **Python basics, logic building, and C programming**
-- ⚡ Fun fact: I enjoy debugging as much as coding 😄
+### 🧠 About Me
+- 🌱 Currently learning **Python**, **C language**, and **Data Structures & Algorithms**
+- 💡 Passionate about **problem solving** and **building efficient code**
+- 💬 Ask me about **Python basics, debugging, and logic building**
+- 🧩 Love experimenting with new technologies and projects
+- ⚡ Fun fact: I enjoy debugging more than gaming 😄
 
 ---
 
-### 🧰 Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,github,vscode,linux,jupyter,git,html,css" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  
-  ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkukadiya636-ops&show_icons=true&theme=radical)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=parthkukadiya636-ops&theme=radical)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=parthkukadiya636-ops&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=parthkukadiya636-ops&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkukadiya636-ops&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements & Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parthkukadiya636-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkukadiya636-ops&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -35,16 +50,38 @@
 ### 🌟 Featured Projects
 - 🔹 [**Complete-C-language**](https://github.com/parthkukadiya636-ops/Complete-C-language) — All C programming concepts with examples  
 - 🔹 [**Python_questions**](https://github.com/parthkukadiya636-ops/Python_questions) — Python practice problems and solutions  
-- 🔹 [**Jupyter-notebook-python**](https://github.com/parthkukadiya636-ops/Jupyter-notebook-python-) — Python experiments and notes
+- 🔹 [**Jupyter-notebook-python**](https://github.com/parthkukadiya636-ops/Jupyter-notebook-python-) — Python experiments and notes  
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+### 🧩 Badges & Fun
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthkukadiya636-ops&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/parthkukadiya636-ops?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/parthkukadiya636-ops?label=Stars&style=social" alt="stars" />
 </p>
 
 ---
 
-<p align="center">✨ “Code, Debug, Learn, Repeat.” ✨</p>
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/parthkukadiya636-ops" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parthkukadiya636-ops/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:parthkukadiya636@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">✨ “Code. Debug. Learn. Repeat.” ✨</p>
