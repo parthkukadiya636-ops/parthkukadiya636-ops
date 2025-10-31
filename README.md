@@ -70,7 +70,7 @@
   <a href="mailto:parthkukadiya636@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://holopin.io/@parthkukadiya636-ops" target="_blank">
+  <a href="https://www.holopin.io/@parthkukadiya636ops#" target="_blank">
   <img src="https://img.shields.io/badge/Holopin-4F47C3?style=for-the-badge&logo=holopin&logoColor=white"/>
 </a>
 
