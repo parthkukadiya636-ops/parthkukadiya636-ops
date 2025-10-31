@@ -64,7 +64,7 @@
   <a href="https://github.com/parthkukadiya636-ops" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/parthkukadiya636-ops/" target="_blank">
+  <a href="https://www.linkedin.com/in/parth-kukadiya-7081a6385/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:parthkukadiya636@gmail.com" target="_blank">
