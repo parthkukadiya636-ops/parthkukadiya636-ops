@@ -25,7 +25,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkukadiya636-ops&show_icons=true&theme=radical)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub streak" width="49%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=parthkukadiya636-ops&theme=radical)](https://git.io/streak-stats)
+
 </p>
 
 ---
