@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49%"/>
+  ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkukadiya636-ops&show_icons=true&theme=radical)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub streak" width="49%"/>
 </p>
 
