@@ -24,8 +24,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkukadiya636-ops&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=parthkukadiya636-ops&theme=radical)](https://git.io/streak-stats)
+  
+  ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkukadiya636-ops&show_icons=true&theme=radical)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=parthkukadiya636-ops&theme=radical)](https://git.io/streak-stats)
 
 </p>
 
