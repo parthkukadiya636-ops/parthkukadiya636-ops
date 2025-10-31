@@ -31,9 +31,9 @@
 ---
 
 ### 🌟 Featured Projects
-- 🔹 [**Complete-C-language**](https://github.com/YOUR_USERNAME/Complete-C-language) — All C programming concepts with examples  
-- 🔹 [**Python_questions**](https://github.com/YOUR_USERNAME/Python_questions) — Python practice problems and solutions  
-- 🔹 [**Jupyter-notebook-python**](https://github.com/YOUR_USERNAME/Jupyter-notebook-python-) — Python experiments and notes
+- 🔹 [**Complete-C-language**](https://github.com/parthkukadiya636-ops/Complete-C-language) — All C programming concepts with examples  
+- 🔹 [**Python_questions**](https://github.com/parthkukadiya636-ops/Python_questions) — Python practice problems and solutions  
+- 🔹 [**Jupyter-notebook-python**](https://github.com/parthkukadiya636-ops/Jupyter-notebook-python-) — Python experiments and notes
 
 ---
 
