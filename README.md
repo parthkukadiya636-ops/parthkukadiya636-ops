@@ -74,6 +74,9 @@
   <a href="mailto:parthkukadiya636@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  ### 🏅 Holopin Badges
+[![An image of @parthkukadiya636-ops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parthkukadiya636-ops)](https://holopin.io/@parthkukadiya636-ops)
+
 </p>
 
 ---
