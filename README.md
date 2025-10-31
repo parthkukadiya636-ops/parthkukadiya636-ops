@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,github,vscode,linux,jupyter,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,github,vscode,linux,jupyter" />
 </p>
 
 ---
@@ -79,7 +79,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/parthkukadiya636-ops/parthkukadiya636-ops/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---
