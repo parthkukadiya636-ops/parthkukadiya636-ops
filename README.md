@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Programmer | 💻 C & Python Developer | 🎯 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Code.+Debug.+Learn.+Repeat.💡;Passionate+about+Programming!;C+%7C+Python+%7C+GitHub+Explorer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Debug.+Learn.+Repeat.💡;Passionate+about+Programming!;C+%7C+Python+%7C+GitHub+Explorer!" alt="Typing SVG"/>
 </p>
 
 ---
