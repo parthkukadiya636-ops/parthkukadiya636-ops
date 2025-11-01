@@ -73,6 +73,12 @@
   <a href="https://www.holopin.io/@parthkukadiya636ops#" target="_blank">
   <img src="https://img.shields.io/badge/Holopin-4F47C3?style=for-the-badge&logo=holopin&logoColor=white"/>
 </a>
+<a href="https://www.hackerrank.com/@parthkukadiya636" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/tf6cpnGufE/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 
 </p>
