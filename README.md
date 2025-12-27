@@ -21,7 +21,6 @@
    <img src="https://skillicons.dev/icons?i=python,c,github,vscode,linux,jupyter,leetcode" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
