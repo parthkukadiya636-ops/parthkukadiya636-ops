@@ -45,11 +45,12 @@
 </p>
 
 ---
-## 🧩 LeetCode Badges
+ ## 🧩 LeetCode Badges
 
 <p align="center">
   <a href="https://leetcode.com/u/tf6cpnGufE/">
-    <svg width="90" height="90" viewBox="0 0 100 100">
+    <svg width="90" height="90" viewBox="0 0 100 100"
+         xmlns="http://www.w3.org/2000/svg">
       <g>
         <animateTransform
           attributeName="transform"
@@ -74,7 +75,8 @@
               text-anchor="middle"
               fill="#000"
               font-size="10"
-              font-weight="bold">
+              font-weight="bold"
+              font-family="Arial, Helvetica, sans-serif">
           LC
         </text>
       </g>
