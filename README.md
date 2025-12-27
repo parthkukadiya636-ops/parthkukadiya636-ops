@@ -45,11 +45,11 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://leetcode.com/u/tf6cpnGufE/">
-    <img src="https://leetcard.jacoblin.cool/tf6cpnGufE?theme=dark" alt="LeetCode Stats" />
-  </a>
+ <img src="https://leetcode-badge.vercel.app/api/users/tf6cpnGufE/badges" alt="LeetCode Badges" />
+ <p align="center">
+  <img src="https://leetcode-badge.vercel.app/api/users/tf6cpnGufE/badges" />
 </p>
+![LeetCode Badge](https://leetcode-badge.vercel.app/api/users/tf6cpnGufE/latest)
 ---
 
 ## 🌟 Featured Projects
