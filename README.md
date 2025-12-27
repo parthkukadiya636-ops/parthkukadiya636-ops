@@ -45,42 +45,9 @@
 </p>
 
 ---
- ## 🧩 LeetCode Badges
-
 <p align="center">
   <a href="https://leetcode.com/u/tf6cpnGufE/">
-    <svg width="90" height="90" viewBox="0 0 100 100"
-         xmlns="http://www.w3.org/2000/svg">
-      <g>
-        <animateTransform
-          attributeName="transform"
-          type="rotate"
-          from="0 50 50"
-          to="360 50 50"
-          dur="8s"
-          repeatCount="indefinite"/>
-
-        <!-- Hexagon -->
-        <polygon
-          points="50,5 90,27 90,73 50,95 10,73 10,27"
-          fill="#2b2b2b"
-          stroke="#9e9e9e"
-          stroke-width="2"/>
-
-        <!-- Inner Circle -->
-        <circle cx="50" cy="50" r="22" fill="#FFA116"/>
-
-        <!-- Text -->
-        <text x="50" y="55"
-              text-anchor="middle"
-              fill="#000"
-              font-size="10"
-              font-weight="bold"
-              font-family="Arial, Helvetica, sans-serif">
-          LC
-        </text>
-      </g>
-    </svg>
+    <img src="https://leetcard.jacoblin.cool/tf6cpnGufE?theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 ---
