@@ -44,11 +44,15 @@
 </p>
 
 ---
- <p align="center">
+ 
+ ## 🧩 LeetCode Badge
+
+<p align="center">
   <a href="https://leetcode.com/u/tf6cpnGufE/">
     <img src="leetcode-badge.gif" width="90">
   </a>
 </p>
+
 ---
 - 🔹 [**Complete-C-language**](https://github.com/parthkukadiya636-ops/Complete-C-language) — All C programming concepts with examples  
 - 🔹 [**Python_questions**](https://github.com/parthkukadiya636-ops/Python_questions) — Python practice problems and solutions  
