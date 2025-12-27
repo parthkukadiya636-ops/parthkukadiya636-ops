@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/tf6cpnGufE/">
-    <img src="leetcode-badge.gif" width="90">
+    <img src="leetcode-badge.gif" width="140">
   </a>
 </p>
 
