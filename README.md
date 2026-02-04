@@ -103,7 +103,4 @@
 ---
 
 <p align="center">✨ “Code. Debug. Learn. Repeat.” ✨</p>
-This video gives a comprehensive overview of how to format text in GitHub Readme files, which includes using headings to control text size. [GitHub Pages: Basic Text-styling with Markdown](https://www.youtube.com/watch?v=Bldoar___Vg)
-
-
-http://googleusercontent.com/youtube_content/0
+ 
