@@ -6,7 +6,7 @@
 ## 🧠 About Me
 ## 🌱 Currently learning **Python**, **C language**, and **Data Structures & Algorithms**
 
-## 💡💡Passionate about **problem solving** and **building efficient code**
+## 💡Passionate about **problem solving** and **building efficient code**
 
 ## 💬 Ask me about **Python basics, debugging, and logic building**
 
