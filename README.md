@@ -10,7 +10,7 @@
 
 ## 💬 Ask me about **Python basics, debugging, and logic building**
 
-## 🧩 Love experimenting with new technologies and projects
+## 🧩🧩 Love experimenting with new technologies and projects
 
 ## ⚡ Fun fact: I enjoy debugging more than gaming 😄
 
