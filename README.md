@@ -60,7 +60,7 @@
 
 ---
 
-## 🧩Badges & Fun
+## 🧩 Badges & Fun
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parthkukadiya636-ops&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/parthkukadiya636-ops?label=Followers&style=social" alt="followers" />
