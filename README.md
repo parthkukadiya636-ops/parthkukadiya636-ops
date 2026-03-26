@@ -1,5 +1,5 @@
  <h1 align="center">👋 Hi, I'm Parth Kukadiya</h1>
-<h3 align="center">🚀 Passionate Programmer | 💻 C & Python Developer | 🎯 Lifelong Learner</h3>
+<h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
 
 ---
 
