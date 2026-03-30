@@ -56,7 +56,12 @@
  ## 🧩 LeetCode Badge
 
 
-   <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="145" width="145" /></a>
+       
+  <a href="https://leetcode.com/u/tf6cpnGufE/">
+    <img src="leetcode-badge.gif" width="250">
+  </a>
+ 
+
 
 
 ---
