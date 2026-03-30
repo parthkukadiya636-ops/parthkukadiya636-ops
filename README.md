@@ -114,7 +114,8 @@
 
 </p>
 
----
+<img src="https://gitlyy.vercel.app/api/languages?username=parthkukadiya636-ops&theme=dark&hide_border=true"/>
 
-<p align="center">✨ “Code. Debug. Learn. Repeat.” ✨</p>
+---
+ <p align="center">✨ “Code. Debug. Learn. Repeat.” ✨</p>
  
