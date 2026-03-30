@@ -10,6 +10,7 @@
 ## 🧩 Love experimenting with new technologies and projects
 
 ## ⚡ Fun fact: I enjoy debugging more than gaming 😄
+<h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
 
 ---
 
@@ -24,11 +25,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthkukadiya636-ops&theme=github_dark"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthkukadiya636-ops&theme=github_dark"/>
+<img src="https://gitlyy.vercel.app/api/languages?username=parthkukadiya636-ops&theme=dark&hide_border=true"/>
 
 </div>
  
-<h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
-
+ 
  
 
  
