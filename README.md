@@ -58,7 +58,7 @@
 
        
   <a href="https://leetcode.com/u/tf6cpnGufE/">
-    <img src="leetcode-badge.gif" width="250">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="250">
   </a>
  
 
