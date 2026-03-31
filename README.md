@@ -15,7 +15,12 @@
 ---
  <div align="center">
 
- <img src="https://github-contribution-grid.vercel.app/api?username=parthkukadiya636-ops"/>
+<div align="center" style="overflow:hidden;">
+  <img 
+    src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true" 
+    style="transform: scale(1.3); transform-origin: top left;" 
+  />
+</div>
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkukadiya636-ops&theme=github_dark" width="49%"/>
