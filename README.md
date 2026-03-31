@@ -13,30 +13,21 @@
 <h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
 
 ---
- <div align="center">
+   <div align="center">
 
-<div align="center" style="overflow:hidden;">
-  <img 
-    src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true" 
-    style="transform: scale(1.3); transform-origin: top left;" 
-  />
-</div>
-<br/><br/>
+<img src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkukadiya636-ops&theme=github_dark" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthkukadiya636-ops&theme=github_dark&hide_border=true" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkukadiya636-ops&theme=github_dark"/>
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthkukadiya636-ops&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthkukadiya636-ops&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthkukadiya636-ops&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthkukadiya636-ops&theme=github_dark"/>
 
-<br/><br/>
-
-<img src="https://gitlyy.vercel.app/api/languages?username=parthkukadiya636-ops&theme=dark&hide_border=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthkukadiya636-ops&theme=github_dark"/>
+<img src="https://gitlyy.vercel.app/api/languages?username=parthkukadiya636-ops&theme=dark&hide_border=true"/>
 
 </div>
-
+ 
  
 ---
 
