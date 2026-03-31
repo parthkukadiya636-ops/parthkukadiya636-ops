@@ -56,11 +56,11 @@
  ## 🧩 LeetCode Badge
 
 
-       
+  <p align = "center"> 
   <a href="https://leetcode.com/u/tf6cpnGufE/">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="250">
   </a>
- 
+  </p>
 
 
 
