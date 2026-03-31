@@ -47,14 +47,26 @@
 
 ---
  
- ## 🧩 LeetCode Badge
-
+ <h2>🚀 LeetCode Stats</h2>
 
   <p align = "center"> 
   <a href="https://leetcode.com/u/tf6cpnGufE/">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="250">
   </a>
   </p>
+
+  <div align="center">
+
+ 
+<a href="https://leetcode.com/u/tf6cpnGufE/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/tf6cpnGufE?theme=dark&ext=contest" />
+</a>
+
+<br/><br/>
+
+<img src="https://leetcode-stats-six.vercel.app/?username=tf6cpnGufE&theme=dark" />
+
+</div>
 
 
 
