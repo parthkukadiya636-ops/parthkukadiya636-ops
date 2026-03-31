@@ -13,7 +13,7 @@
 <h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
 
 ---
-
+<h1></h1>
 <div align="center">
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true"/>
@@ -28,7 +28,7 @@
 <img src="https://gitlyy.vercel.app/api/languages?username=parthkukadiya636-ops&theme=dark&hide_border=true"/>
 
 </div>
- 
+ </h1>
  
  
 
