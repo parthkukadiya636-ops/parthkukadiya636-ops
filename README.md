@@ -14,7 +14,7 @@
 
 -- <div align="center">
 
-<img src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true"/>
+<img src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true" width="120%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkukadiya636-ops&theme=github_dark"/>
 
