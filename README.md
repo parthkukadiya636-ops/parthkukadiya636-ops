@@ -61,15 +61,7 @@
 <!-- Main Stats + Contest -->
 <img src="https://leetcard.jacoblin.cool/tf6cpnGufE?theme=dark&ext=contest" />
 
-<br/><br/>
-
-<!-- Detailed Stats -->
-<img src="https://leetcode-stats-six.vercel.app/?username=tf6cpnGufE&theme=dark" />
-
-<br/><br/>
-
-<!-- Language & Activity Style -->
-<img src="https://gitlyy.vercel.app/api/leetcode?username=tf6cpnGufE&theme=dark&hide_border=true"/>
+  
 
 </div>
  
