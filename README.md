@@ -12,23 +12,21 @@
 ## ⚡ Fun fact: I enjoy debugging more than gaming 😄
 <h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
 
----
-   <div align="center">
+-- <div align="center">
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkukadiya636-ops&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkukadiya636-ops&theme=github_dark"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthkukadiya636-ops&theme=github_dark&hide_border=true"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthkukadiya636-ops&theme=github_dark"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthkukadiya636-ops&theme=github_dark"/>
+
 <img src="https://gitlyy.vercel.app/api/languages?username=parthkukadiya636-ops&theme=dark&hide_border=true"/>
 
 </div>
- 
- 
 ---
 
  ## 🛠️ Tech Stack
