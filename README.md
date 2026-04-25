@@ -1,6 +1,6 @@
  <h1 align="center">👋 Hi, I'm Parth Kukadiya</h1>
 
-#🧠About Me:
+##🧠About Me:
 ## Currently Completed **HTML ,CSS, JAVASCRIPT**, **C language**, and working on**Data Structures & Algorithms** with C++.
  
 ## 💡Passionate about **problem solving** and **building efficient code**
