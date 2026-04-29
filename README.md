@@ -3,7 +3,7 @@
 ##🧠About Me:
 ## Currently Completed **HTML ,CSS, JAVASCRIPT**, **C language**, and working on**Data Structures & Algorithms** with C++.
  
-#💡Passionate about **problem solving** and **building efficient code**
+##💡Passionate about **problem solving** and **building efficient code**
 
 ## 💬 Ask me about **DATA STRUCTURES, debugging, and logic building**
 
