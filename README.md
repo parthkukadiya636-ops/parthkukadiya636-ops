@@ -9,10 +9,10 @@
 
 ## 🧩 Love experimenting with new technologies and projects
 
-## ⚡ Fun fact: I enjoy debugging more than gaming 😄
+## ⚡Fun fact: I enjoy debugging more than gaming 😄
 <h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
 
- --<div align="center">
+ -<div align="center">
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true" />
 
