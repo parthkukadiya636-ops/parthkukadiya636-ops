@@ -3,13 +3,13 @@
 ## 🧠About Me:
 ## Currently Completed **HTML ,CSS, JAVASCRIPT**, **C language**, and working on**Data Structures & Algorithms** with C++.
  
-##✨Passionate about **problem solving** and **building efficient code**
+## ✨Passionate about **problem solving** and **building efficient code**
 
 ## 💬 Ask me about **DATA STRUCTURES, debugging, and logic building**
 
 ## 🧩 Love experimenting with new technologies and projects
 
-##⚡Fun fact: I enjoy debugging more than gaming 😄
+## ⚡Fun fact: I enjoy debugging more than gaming 😄
 <h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
 
 <div align="center">
@@ -27,7 +27,7 @@
 <img src="https://gitlyy.vercel.app/api/languages?username=parthkukadiya636-ops&theme=dark&hide_border=true"/>
 
 </div>
---
+---
 
  # 🛠️ Tech Stack
 <p align="center">
