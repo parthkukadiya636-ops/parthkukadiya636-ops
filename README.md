@@ -34,7 +34,6 @@
    <img src="https://skillicons.dev/icons?i=python,c,github,vscode,linux,jupyter,leetcode" />
 </p>
 
----
 
 # 🏆 GitHub Achievements & Activity
 <p align="center">
