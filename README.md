@@ -68,7 +68,6 @@
 - 🔹 [**Python_questions**](https://github.com/parthkukadiya636-ops/Python_questions) — Python practice problems and solutions  
 - 🔹 [**Jupyter-notebook-python**](https://github.com/parthkukadiya636-ops/Jupyter-notebook-python-) — Python experiments and notes  
 
----
 
 ## 🧩 Badges & Fun
 <p align="center">
