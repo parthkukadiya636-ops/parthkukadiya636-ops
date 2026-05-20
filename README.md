@@ -1,4 +1,4 @@
- <h1 align="center">👋 Hi, I'm Parth Kukadiya</h1>
+<h1 align="center">👋 Hi, I'm Parth Kukadiya</h1>
 
 ## 🧠About Me:
 ## Currently Completed **HTML ,CSS, JAVASCRIPT**, **C language**, and working on**Data Structures & Algorithms** with C++.
@@ -76,7 +76,6 @@
   <img src="https://img.shields.io/github/stars/parthkukadiya636-ops?label=Stars&style=social" alt="stars" />
 </p>
 
----
 
 # 🌐 Connect with Me and explore
 <p align="center">
