@@ -60,7 +60,7 @@
 <!-- Main Stats + Contest -->
 <img src="https://leetcard.jacoblin.cool/tf6cpnGufE?theme=dark&ext=contest" />
 
-  ---
+  
 
 </div>
  
