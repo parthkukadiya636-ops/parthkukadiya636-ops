@@ -106,7 +106,7 @@
  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 
 </p>
----
+
  
  <p align="center">✨ “Code. Debug. Learn. Repeat.” ✨</p>
  
