@@ -52,6 +52,9 @@
   <a href="https://leetcode.com/u/tf6cpnGufE/">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="250">
   </a>
+   <a href="https://leetcode.com/u/tf6cpnGufE/">
+    <img src="https://leetcode.com/medal/?showImg=0&id=10418120&isLevel=false" width="250">
+  </a>
   </p>
 
  <div align="center">
