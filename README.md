@@ -53,7 +53,7 @@
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="250">
   </a>
    <a href="https://leetcode.com/u/tf6cpnGufE/">
-    <img src=" https://assets.leetcode.com/static_assets/others/50.gif" width="250">
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="250">
   </a>
   </p>
 
