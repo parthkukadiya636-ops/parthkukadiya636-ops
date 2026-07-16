@@ -11,7 +11,7 @@
 
 ## ⚡Fun fact: I enjoy debugging more than gaming 😄
 <h3 align="center">🚀 Passionate Programmer | 💻 C, C++ & Python Developer | 🎯 Lifelong Learner</h3>
----
+
 <div align="center">
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=parthkukadiya636-ops&hide_border=true" />
@@ -33,7 +33,7 @@
    <img src="https://skillicons.dev/icons?i=python,c,github,vscode,linux,jupyter,leetcode" />
 </p>
 
----
+
 # 🏆 GitHub Achievements & Activity
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=parthkukadiya636-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="100%" />
