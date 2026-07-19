@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Full+Stack+Web+Developer;Data+Structures+%26+Algorithms+Enthusiast;C%2FC%2B%2B+%7C+Python+%7C+JavaScript+Developer;Always+Learning+New+Technologies+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Data+Structures+%26+Algorithms+Enthusiast;C%2FC%2B%2B+%7C+Python+%7C+JavaScript+Developer;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=parthkukadiya636-ops&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/stars/parthkukadiya636-ops?style=for-the-badge"/>
 </p>
 
-### 🚀 Passionate Programmer • 💻 Full Stack Developer • 🧠 DSA Enthusiast • 🎯 Lifelong Learner
+### 🚀 Passionate Programmer  • 🧠 DSA Enthusiast • 🎯 Lifelong Learner
 
 </div>
 
@@ -36,9 +36,6 @@
 🗄 SQL & Database Design
 ☁ Cloud Computing
 🚀 Advanced Backend Development
- 
-
- 
 
 # 🛠️ Tech Stack
 
@@ -144,15 +141,12 @@
 
 </div>
 
- 
-
 # 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkukadiya636-ops&theme=tokyo-night&hide_border=true"/>
 </p>
 
- 
 
 # 🚀 Featured Projects
 
@@ -167,15 +161,11 @@
 | 🎓 Student Management System     | CRUD Operations using File Handling    |
 | 🐍 Snake Game                    | Classic Snake Game in C++              |
 
- 
-
 # 🚀 Open Source Repositories
 
 * 🔹 **Complete-C-language** — Complete C Programming Concepts
 * 🔹 **Python_questions** — Python Practice Problems
 * 🔹 **Jupyter-notebook-python** — Python Experiments & Notes
-
- 
 
 # 🚀 LeetCode
 
@@ -195,15 +185,10 @@
 <img src="https://leetcard.jacoblin.cool/tf6cpnGufE?theme=dark&ext=contest"/>
 </p>
 
- 
-
- 
 
 # 💡 Quote
 
 > **"Programs must be written for people to read, and only incidentally for machines to execute."** — Harold Abelson
-
- 
 
 # 🌐 Connect with Me
 
@@ -215,9 +200,7 @@
 <a href="https://www.hackerrank.com/profile/parthkukadiya636" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://www.holopin.io/@parthkukadiya636ops" target="_blank"><img src="https://img.shields.io/badge/Holopin-4F47C3?style=for-the-badge&logo=holopin&logoColor=white" /></a>
 </p>
-
  
-
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
