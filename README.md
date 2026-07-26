@@ -17,7 +17,7 @@
  
 # 🧠 About Me
 
-* 🎓 Computer Science Student passionate about building impactful software.
+* 🎓 Information Technology Student passionate about building impactful software.
 * 🌱 Currently mastering **Data Structures & Algorithms using C++**.
 * 💻 Completed **HTML, CSS, JavaScript, C, PHP & Python**.
 * 🚀 Interested in **Software Development, Full Stack Development, Cloud Computing and Problem Solving**.
