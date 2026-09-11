@@ -1,4 +1,4 @@
- # 👋 Hey, Great to See You! I'm **Parth Kukadiya**
+ # 👋 Hi, Great to See You! I'm **Parth Kukadiya**
 
 <div align="center">
 
