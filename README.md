@@ -15,7 +15,7 @@
 </div>
 
  
-# 🧠 About Me
+# 🧠 About Me..
 
 * 🎓 Information Technology Student passionate about building impactful software.
 * 🌱 Currently mastering **Data Structures & Algorithms using C++**.
